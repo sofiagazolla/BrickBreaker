@@ -1,4 +1,4 @@
-<h1 align="center">🧱 Brick Breaker em Java</h1>
+<h1 align="center"> Brick Breaker em Java</h1>
 
 
 <p align="center">
@@ -18,7 +18,7 @@ A lógica do jogo funciona assim:
 
 ---
 
-## 🎮 Como jogar
+## Como jogar
 
 1. **Clonar o repositório**
 
@@ -40,7 +40,7 @@ java -cp src joguinho.Main
 
 ---
 
-## 📁 Arquivos do jogo
+## Arquivos do jogo
 
 Os arquivos necessários para o jogo são os seguintes:
 
