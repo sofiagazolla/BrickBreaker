@@ -1,8 +1,9 @@
 # 🧱 Brick Breaker em Java
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/brickbreaker-demo.gif" alt="gifjogobrickbreaker"width="600" ">
+  <img src="https://github.com/user-attachments/assets/e7f953b7-5686-4b10-826b-39563bfc7dd5" alt="brickbreaker" width="600">
 </p>
+
 
 
 ![brickbreaker](https://github.com/user-attachments/assets/e7f953b7-5686-4b10-826b-39563bfc7dd5)
