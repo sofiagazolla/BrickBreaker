@@ -3,7 +3,9 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/brickbreaker-demo.gif" alt="gifjogobrickbreaker"width="600" ">
 </p>
-![WhatsAppVideo2025-08-20at21 03 39-ezgif com-effects](https://github.com/user-attachments/assets/528ac5c6-142b-411c-b0cf-ee3ecf28afdd) 
+
+![WhatsAppVideo2025-08-20at21 03 39-ezgif com-effects](https://github.com/user-attachments/assets/5df2d3ae-a0ab-4214-a8d0-1ffd788daadb)
+
 
 ---
 
